@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @menaie
+- 👋 Hi, I’m @menaie 🇧🇷
 - 👀 I’m interested in GNU/Linux
 - 🌱 I’m currently learning how to do a Linux distro
 - 💞️ I’m looking to collaborate on nothing because i don't have time and don't know any coding
