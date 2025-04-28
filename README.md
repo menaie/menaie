@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @menaie 🇧🇷
 - 👀 I’m interested in GNU/Linux
 - 🌱 I’m currently learning how to do a Linux distro
-- 📫 How to reach me: e-mail "arraylinux@proton.me"
+- 📫 How to reach me: e-mail "menaie@tutamail.com"
 
 <!---
 menaie/menaie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
