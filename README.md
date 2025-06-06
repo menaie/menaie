@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @menaie 🇧🇷
 - 👀 I’m interested in GNU/Linux
-- 🌱 I’m currently learning how to do a Linux distro
+- 🌱 I’m currently learning Backend Development
 - 📫 How to reach me: e-mail "menaie@tutamail.com"
 
 <!---
