@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @menaie 🇧🇷
 - 👀 I’m interested in GNU/Linux
 - 🌱 I’m currently learning Backend Development
-- 📫 How to reach me: e-mail "menaie@tutamail.com"
+- 📫 How to reach me: e-mail "educerqueira98@ebsmultimidia.net"
 
 <!---
 menaie/menaie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
